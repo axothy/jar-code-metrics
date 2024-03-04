@@ -1,0 +1,13 @@
+{
+    "jarName": "/Users/axothy/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.5/dc6ea1875f4d64fbc85e1691c95b96a3d8569c90/asm-9.5.jar",
+    "maxInheritanceDepth": 3,
+    "A": 1406,
+    "B": 2833,
+    "ABC": 3822.046703011359,
+    "overridenMethods": 96,
+    "C": 2146,
+    "methods": 552,
+    "fieldsAverage": 19.94736842105263,
+    "averageOverridenMethods": 0.17391304347826086,
+    "averageInheritanceDepth": 2.257142857142857
+}
